@@ -1,4 +1,4 @@
-# 🔡 Drowsiness Detection & Alert System with Arduino and Python
+# Drowsiness Detection & Alert System with Arduino and Python
 
 This project implements a real-time **driver drowsiness detection system** using computer vision (MediaPipe), hardware alerting (Arduino), and cloud logging (ThingSpeak). It monitors the driver’s eye activity through a webcam and triggers alerts if drowsiness is detected.
 
